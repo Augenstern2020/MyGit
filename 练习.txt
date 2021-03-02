@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+<style>
+#paral
+{
+	text-alian:center;
+	color:red;
+}
+</style>
+</head>
+
+<body>
+<p id="paral">Hello World!</p>
+<p>这个段落不受该样式的影响。</p>
+</body>
+</html>
+前端、后端、码代码、英语、锻炼身体、课程。
+curl "https://vpns.jlu.edu.cn/wengine-vpn/js/layui/css/layui.css" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://vpns.jlu.edu.cn/" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed
+
